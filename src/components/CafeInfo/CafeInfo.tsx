@@ -13,4 +13,3 @@ const CafeInfo: React.FC = () => {
 };
 
 export default CafeInfo;
-s

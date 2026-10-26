@@ -1,0 +1,15 @@
+.container {
+    margin-bottom: 24px;
+}
+
+.title {
+    font-size: 28px;
+    margin: 0 0 8px 0;
+    color: #1a1a1a;
+}
+
+.description {
+    font-size: 16px;
+    color: #666666;
+    margin: 0;
+}

@@ -1,17 +1,21 @@
 .container {
-    text-align: left;
-    background-color: #f8f9fa;
+    background-color: #f9f9f9;
+    border: 1px solid #dcdfe3;
+    border-radius: 4px;
     padding: 16px;
-    border-radius: 8px;
-    border: 1px solid #e9ecef;
+    max-width: 300px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
 }
 
 .stat {
-    font-size: 16px;
+    font-size: 15px;
+    color: #2d2d2d;
     margin: 8px 0;
-    color: #495057;
+    display: flex;
+    justify-content: space-between;
 }
 
 .stat strong {
-    color: #212529;
+    font-weight: 600;
+    color: #0a66c2;
 }
